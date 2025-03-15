@@ -1,5 +1,3 @@
-# easyBackup
-
 # easyBackup met Restic en Rclone
 
 Dit script maakt gebruik van **Restic** voor het maken van versleutelde back-ups en **Rclone** voor het uploaden van deze back-ups naar een cloudopslag. Het script is geavanceerd en flexibel, zodat je het kunt aanpassen voor jouw specifieke back-upbehoeften.
